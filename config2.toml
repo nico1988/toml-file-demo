@@ -1,0 +1,17 @@
+{
+  "name": "toml",
+  "version": "1.0.0",
+  "description": "A toml file",
+  "cars": [
+    {
+      "name": "Ford",
+      "year": "1903",
+      "color": "red"
+    },
+    {
+      "name": "Fiat",
+      "year": "1904",
+      "color": "blue"
+    }
+  ]
+}
